@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Leeds]]></title>
         <description><![CDATA[Leeds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leeds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 Nov 2015 22:35:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 Nov 2015 22:36:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leeds/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid in Leeds]]></title>
+            <description><![CDATA[<article><h1>The Grid in Leeds</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e86f753d-3605-4355-a9b0-ef94daaa28b7.png"></article>]]></description>
+            <link>https://thegrid.ai/leeds/the-grid-in-leeds/index.html</link>
+            <guid isPermaLink="false">36d99484-45ba-48d2-bbac-217c1dc51c55</guid>
+            <pubDate>Fri, 20 Nov 2015 22:35:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Off to the UK]]></title>
             <description><![CDATA[<article><h1>Off to the UK</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9422427-57e5-40bc-81c5-92079a828f80.png"></article>]]></description>
-            <link>undefinedoff-to-the-uk/index.html</link>
+            <link>https://thegrid.ai/leeds/off-to-the-uk/index.html</link>
             <guid isPermaLink="false">ec85ffa5-5f97-44b7-a6b1-9ec7f40731b9</guid>
             <pubDate>Fri, 20 Nov 2015 22:35:42 GMT</pubDate>
         </item>
