@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:8df78dbd-4f8e-42f4-a2d0-35015afc8f19'
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2015-11-21T12:50:26.593Z'
-dateModified: '2015-11-21T12:50:21.049Z'
+description: trying to edit filter
+datePublished: '2015-11-21T12:52:02.245Z'
+dateModified: '2015-11-21T12:51:32.509Z'
 author: []
 title: Off to the UK
 sourcePath: _posts/2015-11-20-off-to-the-uk.md
