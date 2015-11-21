@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-21T12:41:11.761Z'
-dateModified: '2015-11-21T12:31:32.143Z'
+datePublished: '2015-11-21T12:50:26.593Z'
+dateModified: '2015-11-21T12:50:21.049Z'
 author: []
 title: Off to the UK
 sourcePath: _posts/2015-11-20-off-to-the-uk.md
