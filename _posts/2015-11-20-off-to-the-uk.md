@@ -1,22 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:8df78dbd-4f8e-42f4-a2d0-35015afc8f19'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-11-21T12:41:11.761Z'
+dateModified: '2015-11-21T12:31:32.143Z'
 author: []
-datePublished: '2015-11-20T22:35:42.821Z'
-publisher:
-  domain: ''
-  name: ''
 title: Off to the UK
-dateModified: '2015-11-20T22:25:33.272Z'
 sourcePath: _posts/2015-11-20-off-to-the-uk.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: off-to-the-uk/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
 # Off to the UK
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc1148c9-0895-443e-a222-959e953a2f53.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9422427-57e5-40bc-81c5-92079a828f80.png)
