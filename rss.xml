@@ -4,7 +4,7 @@
         <description><![CDATA[Leeds]]></description>
         <link>https://thegrid.ai/leeds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 12:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 12:50:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leeds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Grid in Leeds]]></title>
@@ -32,7 +32,7 @@
             <description><![CDATA[<article><h1>Off to the UK</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc1148c9-0895-443e-a222-959e953a2f53.png"></article>]]></description>
             <link>urn:uuid:8df78dbd-4f8e-42f4-a2d0-35015afc8f19</link>
             <guid isPermaLink="false">ec85ffa5-5f97-44b7-a6b1-9ec7f40731b9</guid>
-            <pubDate>Sat, 21 Nov 2015 12:41:11 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 12:50:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
