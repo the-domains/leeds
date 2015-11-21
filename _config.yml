@@ -1,6 +1,6 @@
 name: Leeds
 favicon: null
-layout_spectrum: 0.30426
+layout_spectrum: 0.18758
 typography_spectrum: 0.46052
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#5C6B73'
     - '#253237'
   brandStrength: 1
-  lightness: 0.2998896
-  saturation: 0.01467697
-  rhythmicContrast: 0.3163724
+  lightness: 0.5
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 purpose: []
