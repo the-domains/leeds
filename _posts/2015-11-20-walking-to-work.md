@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:92c97b28-cfa3-4149-ba07-2f3585060131'
 inLanguage: null
 starred: false
 keywords: []
-description: Walking to work
-datePublished: '2015-11-21T12:41:00.804Z'
-dateModified: '2015-11-21T12:38:34.651Z'
+description: ''
+datePublished: '2015-11-21T12:48:17.520Z'
+dateModified: '2015-11-21T12:48:13.134Z'
 author: []
 title: 'Walking to work '
 sourcePath: _posts/2015-11-20-walking-to-work.md
