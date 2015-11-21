@@ -4,7 +4,7 @@
         <description><![CDATA[Leeds]]></description>
         <link>https://thegrid.ai/leeds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Nov 2015 12:41:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Nov 2015 12:42:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/leeds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Early morning hours at SFO]]></title>
@@ -23,9 +23,9 @@
         <item>
             <title><![CDATA[The Grid in Leeds]]></title>
             <description><![CDATA[<article><h1>The Grid in Leeds</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e86f753d-3605-4355-a9b0-ef94daaa28b7.png"></article>]]></description>
-            <link>https://thegrid.ai/leeds/the-grid-in-leeds/index.html</link>
+            <link>urn:uuid:448287e0-401e-4f26-a98c-c6bc09de2fdb</link>
             <guid isPermaLink="false">36d99484-45ba-48d2-bbac-217c1dc51c55</guid>
-            <pubDate>Fri, 20 Nov 2015 22:35:42 GMT</pubDate>
+            <pubDate>Sat, 21 Nov 2015 12:41:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Off to the UK]]></title>
