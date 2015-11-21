@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:cb7c62ce-f2ed-4532-847d-61ef905cd0ab'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2015-11-21T12:40:53.859Z'
+dateModified: '2015-11-21T12:34:09.718Z'
 author: []
-datePublished: '2015-11-21T12:33:08.783Z'
-publisher:
-  domain: ''
-  name: ''
 title: Early morning hours at SFO
-dateModified: '2015-11-21T12:32:30.196Z'
 sourcePath: _posts/2015-11-21-early-morning-hours-at-sfo.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: early-morning-hours-at-sfo/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
