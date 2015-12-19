@@ -6,10 +6,10 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-19T14:39:23.488Z'
-dateModified: '2015-12-19T14:39:22.059Z'
+datePublished: '2015-12-19T14:40:58.113Z'
+dateModified: '2015-12-19T14:40:56.506Z'
 author: []
-title: 'Walking to work '
+title: Walking to Work
 sourcePath: _posts/2015-11-20-walking-to-work.md
 published: true
 authors: []
@@ -23,7 +23,9 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-This is a test post, here is my test sentences. I have a block quote below..
+# Walking to Work
+
+This is a test post, here are my test sentences. I have a block quote below..
 
 > The name has been applied to many administrative entities over the centuries. It changed from being the appellation of a small manorial borough in the 13th century, through several incarnations, to being the name attached to the present metropolitan borough.
 
