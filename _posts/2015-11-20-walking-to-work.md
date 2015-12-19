@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'urn:uuid:92c97b28-cfa3-4149-ba07-2f3585060131'
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-19T14:36:59.755Z'
-dateModified: '2015-12-19T14:36:57.119Z'
+datePublished: '2015-12-19T14:37:57.761Z'
+dateModified: '2015-12-19T14:37:55.910Z'
 author: []
 title: 'Walking to work '
 sourcePath: _posts/2015-11-20-walking-to-work.md
@@ -19,6 +18,7 @@ publisher:
   domain: ''
   url: null
   favicon: null
+url: walking-to-work/index.html
 _context: 'http://schema.org'
 _type: Article
 
